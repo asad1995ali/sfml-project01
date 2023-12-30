@@ -23,3 +23,5 @@ if(WIN32)
 endif()
 
 install(TARGETS CMakeSFMLProject)
+
+#Test 
